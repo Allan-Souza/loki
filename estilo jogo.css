@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+
+.PSE{
+    float: left;
+}
+
+.PSE1{width: 150px;}
+
+.PSE2{width: 150px;}
+
+.PSE3{width: 150px;}
+
+.PSD{
+    float: right;
+}
+
+.PSD1{width: 150px;}
+
+.PSD2{width: 150px;}
+
+.PSD3{width: 150px;}
+
+.p{
+    color: blue;
+    float: center;
+}
+
+.cam{
+    float:left; 
+    display:block;
+    margin-left:355px;
+    margin-right:auto;
+   
+}
+
+.priv{
+    float:center; 
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+   
+}
+
+.mute{
+    float:right; 
+    display:block;
+    margin-left:auto;
+    margin-right:350px;
+   
+}
+
+
+
